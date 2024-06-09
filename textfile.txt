@@ -1,0 +1,6 @@
+My name is Rakibul Islam. Friends are call me Rakib. 
+By the way, I am a frontend developer and now I wanna be backend developer also, that's why I am learning PHP.
+Al nahian and Shaon are my instructor. 
+I loved their teaching style. Hopefully within 6 months I will be become a very good laravel developer.
+
+Thanks 
